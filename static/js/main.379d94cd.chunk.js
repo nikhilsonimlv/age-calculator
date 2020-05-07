@@ -1,0 +1,2 @@
+(this["webpackJsonpage-calculator"]=this["webpackJsonpage-calculator"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r);function c(){return a.a.createElement("div",null,"Ni")}var o=n(2);n.n(o).a.render(a.a.createElement(c,null),document.querySelector("#root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.379d94cd.chunk.js.map
