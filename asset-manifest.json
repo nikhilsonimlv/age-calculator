@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/age-calculator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/age-calculator/static/js/main.a844b1db.chunk.js",
+    "main.js.map": "/age-calculator/static/js/main.a844b1db.chunk.js.map",
+    "runtime-main.js": "/age-calculator/static/js/runtime-main.6542108a.js",
+    "runtime-main.js.map": "/age-calculator/static/js/runtime-main.6542108a.js.map",
+    "static/js/2.23268efb.chunk.js": "/age-calculator/static/js/2.23268efb.chunk.js",
+    "static/js/2.23268efb.chunk.js.map": "/age-calculator/static/js/2.23268efb.chunk.js.map",
+    "index.html": "/age-calculator/index.html",
+    "precache-manifest.31099b6989bfd1c99541bd53cb38ebe1.js": "/age-calculator/precache-manifest.31099b6989bfd1c99541bd53cb38ebe1.js",
+    "service-worker.js": "/age-calculator/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/age-calculator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.23268efb.chunk.js.LICENSE.txt": "/age-calculator/static/js/2.23268efb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/age-calculator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6542108a.js",
+    "static/js/2.23268efb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a844b1db.chunk.js"
+  ]
+}
